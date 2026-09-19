@@ -1,0 +1,117 @@
+{
+  "banana peel": {
+    "category": "Biodegradable / Wet Waste",
+    "disposal_method": "Put in the green/wet-waste bin. Best composted at home or via community compost pits.",
+    "eco_tip": "Fruit and vegetable peels make excellent compost and reduce methane emissions from landfills."
+  },
+  "vegetable peels": {
+    "category": "Biodegradable / Wet Waste",
+    "disposal_method": "Green/wet-waste bin or home compost bin.",
+    "eco_tip": "Composting kitchen waste can cut your household landfill contribution by up to 30%."
+  },
+  "food leftovers": {
+    "category": "Biodegradable / Wet Waste",
+    "disposal_method": "Green/wet-waste bin. Avoid mixing with plastic wrappers.",
+    "eco_tip": "Plan meals to reduce food waste at the source — the most sustainable option."
+  },
+  "tea bags": {
+    "category": "Biodegradable / Wet Waste",
+    "disposal_method": "Green/wet-waste bin (remove staples if present).",
+    "eco_tip": "Used tea leaves also work as a natural plant fertilizer."
+  },
+  "garden waste": {
+    "category": "Biodegradable / Wet Waste",
+    "disposal_method": "Green/wet-waste bin or community composting.",
+    "eco_tip": "Leaves and twigs decompose quickly and enrich soil quality."
+  },
+  "newspaper": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Blue/dry-waste bin. Keep dry and bundled for recyclers.",
+    "eco_tip": "Recycling paper saves trees, water, and energy compared to making new paper."
+  },
+  "cardboard box": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Flatten and place in the blue/dry-waste bin.",
+    "eco_tip": "Flattening boxes saves collection space and transport fuel."
+  },
+  "plastic bottle": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Rinse, remove cap, and place in the blue/dry-waste bin.",
+    "eco_tip": "A rinsed bottle is far more likely to actually get recycled than a dirty one."
+  },
+  "glass bottle": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Rinse and place in the blue/dry-waste bin; handle carefully if broken.",
+    "eco_tip": "Glass can be recycled endlessly without losing quality."
+  },
+  "aluminium can": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Rinse and place in the blue/dry-waste bin.",
+    "eco_tip": "Recycling aluminium uses up to 95% less energy than producing it from raw ore."
+  },
+  "metal scrap": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Blue/dry-waste bin or a local scrap dealer.",
+    "eco_tip": "Scrap metal has real resale value — consider a scrap collection drive."
+  },
+  "plastic wrapper": {
+    "category": "Recyclable / Dry Waste",
+    "disposal_method": "Blue/dry-waste bin if clean; many municipalities also accept multilayer wrappers at collection drives.",
+    "eco_tip": "Reducing single-use wrapper purchases helps more than recycling them."
+  },
+  "old clothes": {
+    "category": "Recyclable / Reusable",
+    "disposal_method": "Donate if usable; otherwise take to a textile-recycling drop-off point.",
+    "eco_tip": "Textile waste is a major landfill contributor — donation extends a garment's life."
+  },
+  "battery": {
+    "category": "Hazardous Waste",
+    "disposal_method": "Do NOT put in regular bins. Drop off at a designated e-waste/battery collection point.",
+    "eco_tip": "Batteries contain heavy metals that can contaminate soil and groundwater."
+  },
+  "medicine": {
+    "category": "Hazardous Waste",
+    "disposal_method": "Return expired medicines to a pharmacy take-back program; do not flush.",
+    "eco_tip": "Flushed medicines can pollute water systems and harm aquatic life."
+  },
+  "paint can": {
+    "category": "Hazardous Waste",
+    "disposal_method": "Take to a hazardous-waste collection facility; never pour down a drain.",
+    "eco_tip": "Leftover paint can be donated to community art or repair projects."
+  },
+  "cfl bulb": {
+    "category": "Hazardous Waste",
+    "disposal_method": "Drop off at an e-waste or CFL collection point; do not break or bin normally.",
+    "eco_tip": "CFL bulbs contain trace mercury and need specialized recycling."
+  },
+  "syringe": {
+    "category": "Hazardous / Biomedical Waste",
+    "disposal_method": "Return to a pharmacy or clinic for safe biomedical disposal. Never place in household bins.",
+    "eco_tip": "Biomedical waste needs specialized handling to prevent injury and infection spread."
+  },
+  "mobile phone": {
+    "category": "E-Waste",
+    "disposal_method": "Drop off at an authorized e-waste collection center or manufacturer take-back program.",
+    "eco_tip": "E-waste contains recoverable gold, copper, and rare earth elements."
+  },
+  "laptop": {
+    "category": "E-Waste",
+    "disposal_method": "Authorized e-waste recycler; wipe personal data first.",
+    "eco_tip": "Refurbishing or donating working electronics extends their useful life."
+  },
+  "charger cable": {
+    "category": "E-Waste",
+    "disposal_method": "E-waste collection point, not the regular dustbin.",
+    "eco_tip": "Cables contain recyclable copper — never burn e-waste to extract metals."
+  },
+  "thermocol": {
+    "category": "Non-Recyclable Waste",
+    "disposal_method": "Dry-waste bin, but check local rules — some cities ban thermocol entirely.",
+    "eco_tip": "Try switching to compostable or reusable packaging alternatives."
+  },
+  "sanitary waste": {
+    "category": "Hazardous / Sanitary Waste",
+    "disposal_method": "Wrap securely and place in a marked red 'sanitary waste' bin, separate from wet/dry waste.",
+    "eco_tip": "Never flush sanitary items — they clog pipes and pollute waterways."
+  }
+}
